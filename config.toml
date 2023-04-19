@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "Death From Above"
-  description = "Death From Above Server Rules"
+  description = "Death From Above"
   avatarURL = "/images/avatar.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
@@ -48,40 +48,22 @@ pygmentsStyle = "monokai"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
+    name = "Server Rules"
     pre = "<span data-feather='list'></span>"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
-    name = "Projects"
-    pre = "<span data-feather='code'></span>"
-    url = "/projects/"
-    weight = 3
-
-  [[menu.main]]
     name = "Discord"
     pre = "<span data-feather='book'></span>"
     url = "/tags/"
-    weight = 4
+    weight = 3
 
   [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/526avijitgupta/gokarna"
-    weight = 5
-
-  [[menu.main]]
-    identifier = "buymeacoffee"
-    pre = "<span data-feather='coffee'></span>"
-    url = "https://www.buymeacoffee.com/avijitgupta"
-    weight = 6
-
-  [[menu.main]]
-    identifier = "rss"
-    pre = "<span data-feather='rss'></span>"
-    url = "/index.xml"
-    weight = 7
+    weight = 4
 
 [markup]
   [markup.tableOfContents]
