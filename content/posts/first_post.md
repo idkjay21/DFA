@@ -1,6 +1,6 @@
 ---
 title: "General Rules"
-date: 2023-04-14T17:09:00-05:00
+date: 2023-04-19T17:09:00-05:00
 type: "post"
 draft: false
 ---
