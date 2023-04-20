@@ -1,5 +1,5 @@
 ---
-title: "Event_rules"
+title: "Event Rules"
 date: 2023-04-19T19:04:38-05:00
 type: "post"
 draft: false
