@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "Death From Above"
   description = "Death From Above"
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/images/DFA.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   customHeadHTML = """
@@ -54,7 +54,8 @@ pygmentsStyle = "monokai"
     weight = 2
 
   [[menu.main]]
-    identifier = "Discord"
+    name = "Discord"
+    identifier = "discord"
     pre = "<span data-feather='book'></span>"
     url = "https://discord.gg/dhkPEJRy"
     weight = 3
