@@ -36,7 +36,7 @@ pygmentsStyle = "monokai"
     </script>
   """
   socialIcons = [
-    {name = "Discord", url = "https://example.com"},
+    {name = "Discord", url = "https://discord.gg/dhkPEJRy"},
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
 
